@@ -1,0 +1,36 @@
+# Project exclude paths
+/.gradle/
+/Topics/Data types/Edit it/out/
+/Topics/Data types/Edit it/out/production/classes/
+/Topics/Data types/Think as a compiler/out/
+/Topics/Data types/Think as a compiler/out/production/classes/
+/Topics/Invoking functions/Invoking functions/out/
+/Topics/Invoking functions/Invoking functions/out/production/classes/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Invoking functions/Square root/out/
+/Topics/Invoking functions/Square root/out/production/classes/
+/Topics/Overview of the basic program/Find a keyword/out/
+/Topics/Overview of the basic program/Find a keyword/out/production/classes/
+/Topics/Overview of the basic program/Multiple statements/out/
+/Topics/Overview of the basic program/Multiple statements/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Overview of the basic program/Your name/out/
+/Topics/Overview of the basic program/Your name/out/production/classes/
+/Topics/Standard output/Amount on the account/out/
+/Topics/Standard output/Amount on the account/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/Standard output/Print code/out/
+/Topics/Standard output/Print code/out/production/classes/
+/Topics/Standard output/Tic-Tac-Toe/out/
+/Topics/Standard output/Tic-Tac-Toe/out/production/classes/
+/Topics/Standard output/We need to learn Kotlin/out/
+/Topics/Standard output/We need to learn Kotlin/out/production/classes/
+/Topics/Values and variables/Swap/out/
+/Topics/Values and variables/Swap/out/production/classes/
